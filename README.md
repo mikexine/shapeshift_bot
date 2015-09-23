@@ -54,7 +54,7 @@ In the API calls to ShapeShift, I left my Public API Key - [you can't do much wi
 
 The CoinCap API doesn't work very well, and sometimes, randomly, the bot gets an error. I don't know why, yet.
 
-Tips are always welcome at [3JqfcRSK49EuR9TitAz7YAgTrdifahun6D](bitcoin:3JqfcRSK49EuR9TitAz7YAgTrdifahun6D) but if you have some spare time, I'll be much much happier if you contact me on Telegram or if you send me an email with some feedback or some suggestion on how to improve the current code (which might be a bit messy and dirty). 
+Tips are always welcome at *3JqfcRSK49EuR9TitAz7YAgTrdifahun6D* but if you have some spare time, I'll be much much happier if you contact me on Telegram or if you send me an email with some feedback or some suggestion on how to improve the current code (which might be a bit messy and dirty). 
 
 Oh, last thing, license. I don't care much, you can do whatever you want with this code, just don't hold me responsible for any problems that you might encounter. You should respect the python-telegram-bot license. 
 
