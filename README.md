@@ -50,7 +50,7 @@ If you need help, you can contact me through Telegram at [@mikexine](https://tel
 ## Various
 I would like to thank the authors of the resources that I linked (python-telegram-bot and the blog post on scphillips.com).
 
-In the API calls to ShapeShift, I left my Public API Key - [you can't do much with it](https://shapeshift.io/affiliate.html). 
+In the API calls to ShapeShift, I left my Public API Key - [you can't do much with it](https://shapeshift.io/affiliate.html) - and I'm not using it to receive affiliate payments, but just to track how many transactions are completed through this bot.
 
 The CoinCap API doesn't work very well, and sometimes, randomly, the bot gets an error. I don't know why, yet.
 
