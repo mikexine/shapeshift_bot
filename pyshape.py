@@ -12,6 +12,7 @@ help = """
 /price <currency> you'll get the USD value of one unit of <currency> ~ through CoinCap API.\n
 /alert <currency> <price> set an alert to be notified when <currency> reaches <price> [WIP]\n
 Rate me on @StoreBot!\n 
+GitHub: https://github.com/mikexine/shapeshift_bot\n
 Contact @mikexine for help, bugs, feedback & co.\n
 """
 
