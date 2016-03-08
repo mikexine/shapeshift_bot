@@ -1,5 +1,6 @@
 # @shapeshift_bot
 
+Discontinued.
 
 Hello! This is the code used by [@shapeshift_bot](https://telegram.me/shapeshift_bot), through Telegram's Bot API. You can easily run your own @shapeshift_bot! Read this small tutorial.
 
@@ -51,11 +52,5 @@ If you need help, you can contact me through Telegram at [@mikexine](https://tel
 I would like to thank the authors of the resources that I linked (python-telegram-bot and the blog post on scphillips.com).
 
 In the API calls to ShapeShift, I left my Public API Key - [you can't do much with it](https://shapeshift.io/affiliate.html) - and I'm not using it to receive affiliate payments, but just to track how many transactions are completed through this bot.
-
-The CoinCap API doesn't work very well, and sometimes, randomly, the bot gets an error. I don't know why, yet.
-
-Tips are always welcome at **3JqfcRSK49EuR9TitAz7YAgTrdifahun6D** but if you have some spare time, I'll be much much happier if you contact me on Telegram or if you send me an email with some feedback or some suggestion on how to improve the current code (which might be a bit messy and dirty). 
-
-Oh, last thing, license. I don't care much, you can do whatever you want with this code, just don't hold me responsible for any problems that you might encounter. You should respect the python-telegram-bot license. 
 
 Thanks for reading all the readme, bye!
